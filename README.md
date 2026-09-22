@@ -1,7 +1,7 @@
 Gruppeinnlevering 1: IS-118, Høst 2026
 ======================================
-# Oppskrift på Git
-1. Hent ned repoet med kommandoen `git pull git@github.com:umbraqqw/is118-innlevering.git`
+## Oppskrift på Git
+1. Hent ned repoet med kommandoen `git clone git@github.com:umbraqqw/is118-innlevering.git`
 2. Gjør endringer på filen "besvarelse.md" i IDE (eks. VSCode, VSCodium, Vim). [Cheatsheet for Markdown](https://www.markdownguide.org/cheat-sheet/)
 3. Åpne terminalen
     - I VSCode: Terminal -> New Terminal
