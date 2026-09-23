@@ -8,6 +8,7 @@ Veldig kort om caset med Erling og rammene: 15 måneder, 8 millioner, og et veld
 <!-- Ansvarlig: Shan. Lengde: ca. 400 ord.
 Her må vi trekke inn pensum på balansen mellom mangfold (produksjon, admin, integrasjon, entreprenørskap) og sosial/demografisk likhet.
 Hvorfor er likhet viktig for å bygge tillit tidlig i "forming"-fasen, mens vi er helt avhengige av mangfold for å løse selve domenet (brukergrensesnitt, politikk, IT-sikkerhet)? -->
+## For at Erling skal lykkes med å utvikle medborgerportalen innen femten måneder, må han sikre at man rekrutterer prosjektgruppen med en balanse mellom likhet og mangfold. For at en gruppe skal være velfungerende må medlemmene stort sett dekke fire sentral gruppefunksjoner: produksjon, administrasjon, integrasjon og entreprenørskap (Jacobsen, 2016). 
 
 # Design av "det første møtet"
 <!-- Ansvarlig: Luka. Lengde: ca. 400 ord.
