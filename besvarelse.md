@@ -48,7 +48,7 @@ Erling bør derfor finne en balanse mellom struktur og fleksibilitet. En god pro
 
 
 
-# Skring av god kommunikasjon
+# Sikring av god kommunikasjon
 <!-- Ansvarlig: William. Lengde: ca. 300 ord.
 råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og effektiv kommunikasjon i teamet. Konkrete verktøy for informasjonsflyt. Hvordan sikre at IT-sikkerhet, politikere og brukere forstår hverandre uten at alt blir borte i fagstammespråk? Forslag til møtestrukturer og asynkron kommunikasjon. -->
 
@@ -57,6 +57,17 @@ råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og effe
 - Hensiktsmessighet og etterlevelse: Hva har funket bra med kontrakten vår? Ble den faktisk brukt? 
 - Svakheter og rom for forbedring: Har vi hatt noen friksjoner kontrakten ikke dekket? Var noen av reglene våre for vage? 
 - Råd for fremtiden: Hvilke spesifikke punkter (fravær, forventninger, sanksjoner) burde vi skrevet skarpere i etterpåklokskapens lys? -->
+Gruppekontrakten vår ble etablert for å sikre jevn arbeidsfordeling og effektiv arbeid utover semesteret, samt tydelig kommunikasjon blant medlemmene. Kontrakten fungerte godt i oppstartsfasen ved at den ga oss klar ramme for både forventninger og ansvarsfordeling, og den hjalp med å kartlegge medlemmenes faglige styker, svakheter og prioriteringer. I praksis viste det seg likevel at kontrakten til en viss grad ble et "glemt" dokument. Selv om vi i del 2 hevdet å ha mål om å "jobbe jevnt og strukturert gjennom hele arbeidsperioden", opplevde vi ofte tidsforskyvninger og utsettelser. Arbeidet ble til tider skjøvet frem i tid, noe som førte til at en del av arbeidsmengden satt igjen kort tid før frist.
+
+En av de største svakhetene i kontrakten var at den i stor grad baserte seg på idealistiske forventninger, og ingen konkrete løsninger eller rutiner å følge dersom den ikke ble fulgt. Kontrakten slo fast at "alle har ansvar for å følge med på kommunikasjonen" og gi beskjed ved fravær eller uforutsatte hendelser. I praksis var vi gode på å melde ifra om slike uforutsatte hendelser, men feil i kommunikasjon har til tider ført til forvirring eller feil i planleggingsfasen. Meldinger ble til tider også ubesvart i lange perioder, men generelt har vi vært gode på å oppdatere hverandre på vårt arbeid. I kontrakten hevdet vi at vi skulle ha ukentlige møter når det var behov, noe som kan ha virket for vage. Uten faste, obligatoriske møtetidspunkter ble terskelen for å utsette arbeidet lavere. Vi opplevde også at møter ble vanskelige å få til, da man blir syk eller er bortreist.
+
+Erfaringene fra dette prosjektet gav oss verdifull oversikt og erfaring til fremtidig prosjektarbeid. Ved framtidige gruppekontrakter vil vi ta med oss tre råd:
+
+1. Vi burde dele opp oppgaven og ha klare frister underveis, slik at vi ikke sitter igjen med mye arbeid før frist
+
+2. ... 
+
+3. ...
 
 
 # Kildeliste
