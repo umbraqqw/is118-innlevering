@@ -39,6 +39,14 @@ En slik proaktiv tilnærming gjør konflikthåndtering til en integrert del av p
 # Håndtering av tidspress og "planleggingsfellen"
 <!-- Ansvarlig: Nashra. Lengde: ca. 350 ord.
 15 måneder går fort. Hvordan kan Erling unngå "planning fallacy" (at man alltid undervurderer hvor lang tid ting tar)? Her må vi skrive om å balansere det ekstreme handlingspresset i starten med behovet for smidighet og fleksibilitet. -->
+5. Håndtering av tidspress og «planleggingsfellen»
+Erling har 15 måneder på seg til å utvikle og lansere medborgerportalen. Selv om dette kan virke som god tid, er et digitalt prosjekt med mange ulike interessenter vanskelig å planlegge helt nøyaktig. En utfordring Erling bør være oppmerksom på, er «planning fallacy», altså tendensen til å undervurdere hvor lang tid en oppgave eller et prosjekt faktisk vil ta. Dersom prosjektgruppen baserer planen på at alt går som forventet, kan selv små forsinkelser føre til stort tidspress mot slutten av prosjektet.
+For å redusere risikoen bør Erling lage en realistisk overordnet plan med tydelige milepæler. I stedet for å planlegge alle detaljer for de neste 15 månedene bør prosjektet deles opp i mindre faser. Dette gjør det mulig å følge fremdriften underveis og oppdage problemer tidlig. Det bør også settes av tid til testing, feilretting, godkjenninger og uforutsette hendelser. På denne måten blir ikke hele tidsplanen basert på at alt går perfekt.
+Samtidig må Erling unngå å reagere på tidspress ved å planlegge for mye i starten. Prosjektet har flere interessenter med ulike behov, og kravene til portalen kan endre seg etter hvert som teamet lærer mer. En svært detaljert plan kan derfor bli lite nyttig dersom forutsetningene endrer seg. Erling bør heller ha en tydelig retning og noen overordnede mål, samtidig som detaljerte planer kan justeres underveis.
+Regelmessige oppfølgingspunkter kan brukes til å sammenligne planlagt og faktisk fremdrift. Dersom en aktivitet tar lengre tid enn forventet, bør teamet diskutere konsekvensene tidlig og eventuelt endre prioriteringer. Det kan også være nødvendig å prioritere de viktigste funksjonene i portalen fremfor å forsøke å gjennomføre alt samtidig.
+Erling bør derfor finne en balanse mellom struktur og fleksibilitet. En god prosjektplan skal gi teamet retning og oversikt, men samtidig kunne endres når ny informasjon eller uforutsette problemer oppstår. Dette kan redusere risikoen for at prosjektet havner i et stort tidspress mot slutten av de 15 månedene.
+
+
 
 # Skring av god kommunikasjon
 <!-- Ansvarlig: William. Lengde: ca. 300 ord.
