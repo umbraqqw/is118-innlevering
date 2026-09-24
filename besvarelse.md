@@ -63,15 +63,15 @@ En av de største svakhetene i kontrakten var at den i stor grad baserte seg på
 
 Erfaringene fra dette prosjektet gav oss verdifull oversikt og erfaring til fremtidig prosjektarbeid. Ved framtidige gruppekontrakter vil vi ta med oss tre råd:
 
-1. Vi burde dele opp oppgaven og ha klare frister underveis, slik at vi ikke sitter igjen med mye arbeid før frist
+1. Vi burde dele opp oppgaven og ha klare frister underveis, slik at vi ikke sitter igjen med mye arbeid før frist.
 
-2. ... 
+2. Vi må sette opp faste, obligatoriske møtetider hver uke. Å kun avtale møter "ved behov" gjør at terskelen for å utsette arbeidet blir altfor lav. 
 
-3. ...
+3. Vi burde bygge en enda tryggere kultur for å kunne si ifra tidligere, og kanskje ha litt "ryggrad" i å tørre å si ifra om noe ikke fungerer underveis.
 
 
 # Kildeliste
-## Jacobsen, D. I. (2016). Engangsorganisasjonen. Bergen: Fagbokforlaget.
-## OpenAI. (2025, 22. September). Disposisjon for studentoppgave (generativ KI-chat). ChatGPT. Lenke: https://chatgpt.com/share/6ab3bc1f-3a24-83ed-acbf-32fe03f2b93d
+* Jacobsen, D. I. (2016). Engangsorganisasjonen. Bergen: Fagbokforlaget.
+*  OpenAI. (2025, 22. September). Disposisjon for studentoppgave (generativ KI-chat). ChatGPT. Lenke: https://chatgpt.com/share/6ab3bc1f-3a24-83ed-acbf-32fe03f2b93d
 
 
