@@ -24,9 +24,13 @@ Kontrakter som går forbi det klassiske jerntriangelet (tid, kostnad, kvalitet).
 
 # Proaktive mekanismer for konflikthåndtering
 I et prosjekt som Erling sitt er det sannsynlig at det kan oppstå konflikter fordi prosjektgruppen består av personer med ulik faglig bakgrunn, ulike interesser og ulike perspektiver på prosjektets mål. Konflikter trenger ikke nødvendigvis å være negative, men dersom uenigheter ikke håndteres tidlig, kan de utvikle seg og påvirke både samarbeidet, fremdriften og prosjektresultatet. Det er derfor viktig at konflikthåndtering planlegges allerede i prosjektets oppstartsfase.
+
 En viktig mekanisme er å etablere tydelige spilleregler for hvordan uenigheter skal håndteres. På det første møtet bør Erling sammen med gruppen bli enige om hvordan medlemmene skal kommunisere, hvordan kritikk skal fremmes, og hvordan beslutninger skal tas. Det bør for eksempel være aksept for å utfordre ideer og løsninger, samtidig som kritikken rettes mot saken og ikke personen. Dette kan bidra til å skape tillit og gjøre det lettere for deltakerne å ta opp problemer før de blir større.
+
 Det bør også etableres en fast prosedyre for konflikter. Første steg kan være at uenigheten tas opp direkte mellom de involverte partene. Dersom dette ikke fører frem, bør Erling som prosjektleder fungere som en nøytral part som legger til rette for en strukturert samtale. Her bør partene få forklare hva de er uenige om, hvilke interesser de har, og hvilke konsekvenser de ulike alternativene kan få for prosjektet. På denne måten kan man forsøke å skille mellom saklig faglig uenighet og personlige konflikter.
+
 For å unngå eskalering bør uenigheter dokumenteres og tas opp på faste prosjektmøter når de påvirker prosjektets mål, fremdrift eller ressursbruk. Det bør samtidig være tydelig hvem som har beslutningsmyndighet dersom gruppen ikke klarer å bli enige. I Erling sitt prosjekt kan dette for eksempel innebære at mindre faglige beslutninger avgjøres av prosjektgruppen, mens større endringer i budsjett, tidsplan eller prosjektets mål løftes til prosjekteier eller bystyret.
+
 En slik proaktiv tilnærming gjør konflikthåndtering til en integrert del av prosjektstyringen, fremfor noe som først tas frem når konflikten allerede har eskalert. For Erling er dette særlig viktig fordi prosjektgruppen er tverrfaglig og tidsrammen bare er 15 måneder. Klare prosedyrer for uenighet kan derfor bidra til å bevare fremdriften samtidig som ulike faglige perspektiver blir ivaretatt
 
 # Håndtering av tidspress og "planleggingsfellen"
