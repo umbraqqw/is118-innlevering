@@ -41,3 +41,10 @@ råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og effe
 - Hensiktsmessighet og etterlevelse: Hva har funket bra med kontrakten vår? Ble den faktisk brukt? 
 - Svakheter og rom for forbedring: Har vi hatt noen friksjoner kontrakten ikke dekket? Var noen av reglene våre for vage? 
 - Råd for fremtiden: Hvilke spesifikke punkter (fravær, forventninger, sanksjoner) burde vi skrevet skarpere i etterpåklokskapens lys? -->
+
+
+# Kildeliste
+## Jacobsen, D. I. (2016). Engangsorganisasjonen. Bergen: Fagbokforlaget.
+## OpenAI. (2025, 22. September). Disposisjon for studentoppgave (generativ KI-chat). ChatGPT. Lenke: https://chatgpt.com/share/6ab3bc1f-3a24-83ed-acbf-32fe03f2b93d
+
+
