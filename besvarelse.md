@@ -1,10 +1,11 @@
 Oppstartspakke for prosjektledelse - Digital Medborgerportal
 ============================================================
-# Introduksjon
+## Del 1: Oppstartspakke for Erling
+### Introduksjon
 <!-- Ansvarlig: William. Lengde: ca. 100 ord. 
 Veldig kort om caset med Erling og rammene: 15 måneder, 8 millioner, og et veldig tverrfaglig team (politikere, IT, innbyggere). Hensikten med pakken vi lager. -->
 
-# Strategi for rekruttering og sammensetting
+### Strategi for rekruttering og sammensetting
 <!-- Ansvarlig: Shan. Lengde: ca. 400 ord.
 Her må vi trekke inn pensum på balansen mellom mangfold (produksjon, admin, integrasjon, entreprenørskap) og sosial/demografisk likhet.
 Hvorfor er likhet viktig for å bygge tillit tidlig i "forming"-fasen, mens vi er helt avhengige av mangfold for å løse selve domenet (brukergrensesnitt, politikk, IT-sikkerhet)? -->
@@ -12,7 +13,7 @@ For at Erling skal lykkes med å utvikle medborgerportalen innen femten måneder
 
 For å motvirke dette i forming-fasen, må Erling prioritere og forstå tillit. Tillit gjør at samarbeidet fungerer mer effektivt og at mindre tid brukes på kontroll. Det har blitt vist mennesker har ofte umiddelbart større tillit til personer som ligner på dem selv, noe som gjør det utfordrende å bygge tillit i oppstartsfasen (Jacobsen, 2016). Derfor må Erling sørge for en viss sosial og demografisk kryssing på tvers av fagfeltene for å redusere den sosiale avstanden. Det vil si at i stedet for å kun se på formelle roller kan Erling kartlegge om medlemmene har noe overlappende erfaring på tvers av gruppene, for eksempel om innbyggerrepresentantene har erfaring fra frivillig arbeid som en kommuneansatt kan kjenne seg igjen i, eller at UX-designeren har erfaring fra offentlig sektor fra tidligere prosjekter.
 
-# Design av "det første møtet"
+### Design av "det første møtet"
 <!-- Ansvarlig: Luka. Lengde: ca. 400 ord.
 Hvordan bør Erling legge opp selve kick-offen? Konkret forslag til agenda. Må inkludere hvordan vi skaper en felles forståelse for at målet er å øke engasjement med 20%. Husk å ta med konseptet "pseudo-arbeid" for relasjonsbygging og hvorfor dette er kritisk for et team som ikke kjenner hverandre. --> 
 Det første prosjektmøtet er viktig fordi det legger et grunnlag for hvordan gruppen skal samarbeide i fremtiden. Erling bør derfor bruke møtet til både å skape en felles forståelse av prosjektet og til å bygge relasjoner mellom gruppemedlemmene. Siden prosjektgruppen består av personer med ulik faglig bakgrunn, så er det viktig å skape et miljø hvor alle føler seg trygge på å dele sine perspektiver og erfaringer. 
@@ -21,7 +22,7 @@ Når vi kommer til prosjekt delen av møte, da bør Erling presentere prosjektet
 Erling bør også bruke møtet til å avklare forventninger, roller og ansvar. Dette er viktig for å skape en tydelig gruppestruktur, slik at alle vet hva de skal gjøre og hva som forventes av dem. På denne måten kan man også redusere risikoen for sosial loffing, hvor enkelte medlemmer bidrar mindre enn andre. Med tanke på dette så bør Erling oppmuntre god og åpen kommunikasjon, slik at alle føler at de kan stille spørsmål og dele sine egne meninger.
 Mot slutten av møtet så bør gruppen oppsummere hva de har blitt enige om og avtale de første arbeidsoppgavene. Dette gir alle en tydelig forståelse av hva som skal skje videre og det blir en god start på videre teamarbeid. Et godt første møte kan dermed bidra til bedre gruppesamspill og et mer effektivt prosjektarbeid.  
 
-# Rammer for relasjonelle kontrakter
+### Rammer for relasjonelle kontrakter
 <!-- Ansvarlig: Alexandra. Lengde: ca. 350 ord.
 Kontrakter som går forbi det klassiske jerntriangelet (tid, kostnad, kvalitet). Hvordan bør Erling bygge tillit, forventninger og samhandling mellom prosjekteier (kommunen/bystyret) og seg selv? (Bruk definisjonen på relasjonelle kontrakter fra pensum direkte på caset). -->
 For at Erling skal kunne etablere et velfungerende samarbeid med prosjekteier, bør det utvikles en relasjonell kontrakt som fungerer som et rammeverk for samhandling, forventningsavklaring og tillitsbygging. Ifølge Jacobsen (2016) handler relasjonelle kontrakter om hvordan samarbeidet mellom prosjektleder og prosjekteier skal foregå, hvilken informasjon som skal deles, hvordan uforutsette hendelser skal håndteres, hvordan uenigheter skal behandles, og hvilke arenaer som skal benyttes for dialog mellom interessenter. 
@@ -34,7 +35,7 @@ De myke reglene i den relasjonelle kontrakten kan omhandle kommunikasjonen mello
 
 Mer grunnleggende er det avgjørende at prosjektleder og prosjekteier har en felles forståelse av prosjektets mål, samt tydelig avklarte roller, ansvarsområder og oppgaver. Bruk av tid og ressurser bør dokumenteres fortløpende og tas opp i de regelmessige statusmøtene for å sikre transparens, ansvarlighet og effektiv prosjektstyring. 
 
-# Proaktive mekanismer for konflikthåndtering
+### Proaktive mekanismer for konflikthåndtering
 I et prosjekt som Erling sitt er det sannsynlig at det kan oppstå konflikter fordi prosjektgruppen består av personer med ulik faglig bakgrunn, ulike interesser og ulike perspektiver på prosjektets mål. Konflikter trenger ikke nødvendigvis å være negative, men dersom uenigheter ikke håndteres tidlig, kan de utvikle seg og påvirke både samarbeidet, fremdriften og prosjektresultatet. Det er derfor viktig at konflikthåndtering planlegges allerede i prosjektets oppstartsfase.
 
 En viktig mekanisme er å etablere tydelige spilleregler for hvordan uenigheter skal håndteres. På det første møtet bør Erling sammen med gruppen bli enige om hvordan medlemmene skal kommunisere, hvordan kritikk skal fremmes, og hvordan beslutninger skal tas. Det bør for eksempel være aksept for å utfordre ideer og løsninger, samtidig som kritikken rettes mot saken og ikke personen. Dette kan bidra til å skape tillit og gjøre det lettere for deltakerne å ta opp problemer før de blir større.
@@ -45,7 +46,7 @@ For å unngå eskalering bør uenigheter dokumenteres og tas opp på faste prosj
 
 En slik proaktiv tilnærming gjør konflikthåndtering til en integrert del av prosjektstyringen, fremfor noe som først tas frem når konflikten allerede har eskalert. For Erling er dette særlig viktig fordi prosjektgruppen er tverrfaglig og tidsrammen bare er 15 måneder. Klare prosedyrer for uenighet kan derfor bidra til å bevare fremdriften samtidig som ulike faglige perspektiver blir ivaretatt
 
-# Håndtering av tidspress og "planleggingsfellen"
+### Håndtering av tidspress og "planleggingsfellen"
 <!-- Ansvarlig: Nashra. Lengde: ca. 350 ord.
 15 måneder går fort. Hvordan kan Erling unngå "planning fallacy" (at man alltid undervurderer hvor lang tid ting tar)? Her må vi skrive om å balansere det ekstreme handlingspresset i starten med behovet for smidighet og fleksibilitet. -->
 Håndtering av tidspress og «planleggingsfellen»
@@ -57,11 +58,11 @@ Erling bør derfor finne en balanse mellom struktur og fleksibilitet. En god pro
 
 
 
-# Sikring av god kommunikasjon
+### Sikring av god kommunikasjon
 <!-- Ansvarlig: William. Lengde: ca. 300 ord.
 råd og anbefalinger som prosjektlederen kan benytte for å sikre en god og effektiv kommunikasjon i teamet. Konkrete verktøy for informasjonsflyt. Hvordan sikre at IT-sikkerhet, politikere og brukere forstår hverandre uten at alt blir borte i fagstammespråk? Forslag til møtestrukturer og asynkron kommunikasjon. -->
 
-# Egenevaluering av gruppekontrakt
+# Del 2: Egenevaluering av gruppekontrakt
 <!-- Ansvarlig: Felles ansvar. Lengde: 350-400 ord.
 - Hensiktsmessighet og etterlevelse: Hva har funket bra med kontrakten vår? Ble den faktisk brukt? 
 - Svakheter og rom for forbedring: Har vi hatt noen friksjoner kontrakten ikke dekket? Var noen av reglene våre for vage? 
@@ -79,7 +80,7 @@ Erfaringene fra dette prosjektet gav oss verdifull oversikt og erfaring til frem
 3. Vi burde bygge en enda tryggere kultur for å kunne si ifra tidligere, og kanskje ha litt "ryggrad" i å tørre å si ifra om noe ikke fungerer underveis.
 
 
-# Kildeliste
+## Kildeliste
 * Jacobsen, D. I. (2016). Engangsorganisasjonen. Bergen: Fagbokforlaget.
 *  OpenAI. (2025, 22. September). Disposisjon for studentoppgave (generativ KI-chat). ChatGPT. Lenke: https://chatgpt.com/share/6ab3bc1f-3a24-83ed-acbf-32fe03f2b93d
 
